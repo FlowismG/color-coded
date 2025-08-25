@@ -6,7 +6,7 @@ You have 2 download options:
 1. Search for color-coded in the in-game mod portal
 2. Click download
 ## Download on the website
-1. Go to [replace this with the real link pls]
+1. Go to https://mods.factorio.com/mod/color-coded
 2. Click download
 3. Navigate to %appdata%/Factorio/mods and put the .zip file there (Do not navigate to .minecraft since this isn't a minecraft mod)
 4. Launch the game
