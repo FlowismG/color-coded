@@ -1,0 +1,9 @@
+{
+  "name": "color-coded",
+  "version": "1.0.0",
+  "title": "Color Coded English",
+  "author": "Flowi4591",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "?space-age >= 2.0", "?quality >= 2.0"],
+  "description": "Color codes EVERYTHING in the game. And I do mean it. Individual groups can be toggled in settings."
+}
