@@ -174,5 +174,5 @@ if mods["space-age"] then
     log("If you can read this, then this means I haven't put space age items yet, so wait until I do so")
 end
 if mods["quality"] then
-    log("...and same for the quality mod / DLC.")
+    log("If you can read this, then this means I haven't put qualities yet, so wait until I do so")
 end
